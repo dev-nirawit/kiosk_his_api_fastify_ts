@@ -1,0 +1,15 @@
+node_modules/*
+bower_components/*
+*.sh
+*.zip
+*.tar*
+config
+.git/*
+nul*
+app/*
+dist/*
+uploads/*
+temp/*
+.vscode
+.DS_Store
+Thumbs.db
