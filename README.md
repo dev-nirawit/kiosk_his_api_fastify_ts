@@ -1,4 +1,5 @@
-# API for Injury Surveillance Online, MOPH
+# API For Kiosk
+Frontend : https://github.com/dev-nirawit/kiosk_newAuthenVuetify
 
 ## Requirement
 ```
@@ -9,10 +10,7 @@
 
 ## Installation
 ```
-git clone https://github.com/Develop-MOPH/isoncloud_api or 
-git clone https://github.com/Develop-MOPH/isoncloud_api -b develop
-cd isoncloud_api
-cp config.txt config ; and edit config with text editor and change correct value.
+git clone https://github.com/dev-nirawit/kiosk_his_api_fastify_ts
 npm install  ; install node required modules
 npm audit fix --force  ; fix vulnerabilities
 ```
