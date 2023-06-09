@@ -13,6 +13,8 @@ Frontend : https://github.com/dev-nirawit/kiosk_newAuthenVuetify
 git clone https://github.com/dev-nirawit/kiosk_his_api_fastify_ts
 npm install  ; install node required modules
 npm audit fix --force  ; fix vulnerabilities
+
+#แก้ไข config.example เป็น config
 ```
 
 ## Running
